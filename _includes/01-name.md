@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+James Harradon
+
+# Introduction to Markdown
+
+## Learning the basics! Look at me go!
