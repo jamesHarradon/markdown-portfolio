@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Walking in the forest
+* Mountain biking
+* Playing Guitar
+* Beer! :beer:
